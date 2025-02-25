@@ -4,6 +4,7 @@ local files = {
     "fast kill.lua",
     "na afka telepoti.lua",
     "tower of hell.lua",
+    "telefon symulacja.lua",
     "fogrem.lua"
 }
 
