@@ -4,6 +4,7 @@ local files = {
     "fast kill.lua",
     "na afka telepoti.lua",
     "tower of hell.lua",
+    "fogrem.lua"
 }
 
 local loadedFiles = {} -- Przechowuje informacje o załadowanych plikach
