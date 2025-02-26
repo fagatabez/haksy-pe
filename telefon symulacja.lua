@@ -16,7 +16,7 @@ local function simulateKeyPress(key)
 end
 
 -- Tworzenie przesuwalnych przycisków
-local keys = {"E", "U", "J", "K", "X", "C"}
+local keys = {"E", "U", "J", "K", "X", "F", "G", "R", "C"}
 local buttons = {}
 
 for i, key in ipairs(keys) do
