@@ -21,7 +21,7 @@ local buttons = {}
 
 for i, key in ipairs(keys) do
     local button = Instance.new("TextButton")
-    button.Size = UDim2.new(0, 50, 0, 50)
+    button.Size = UDim2.new(0, 25, 0, 25)
     button.Position = UDim2.new(0, 50 * i, 0, 50)
     button.Text = key
     button.BackgroundColor3 = Color3.fromRGB(255, 200, 50)
