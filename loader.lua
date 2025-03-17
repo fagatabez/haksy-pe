@@ -5,7 +5,10 @@ local files = {
     "na%20afka%20telepoti.lua",
     "tower%20of%20hell.lua",
     "telefon%20symulacja.lua",
-    "fogrem.lua"
+    "fogrem.lua",
+    "dec.lua",
+    "zmienrozb.lua",
+    "zmienrozl.lua"
 }
 
 local baseUrl = "https://raw.githubusercontent.com/fagatabez/haksy-pe/main/"
