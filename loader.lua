@@ -8,6 +8,7 @@ local files = {
     "fogrem.lua",
     "dec.lua",
     "zmienrozb.lua",
+    "Ai.lua",
     "zmienrozl.lua"
 }
 
