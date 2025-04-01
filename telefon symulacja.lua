@@ -28,7 +28,7 @@ end
 local function createButtons()
     clearButtons() -- Usunięcie starych przycisków
 
-    local keys = {"E", "U", "J", "K", "X", "F", "G", "R", "C"}
+    local keys = {"E", "U", "J", "K", "X", "F", "G", "Q", "C", "Y", "H"}
     local buttons = {}
 
     for i, key in ipairs(keys) do
