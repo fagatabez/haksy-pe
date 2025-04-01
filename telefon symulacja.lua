@@ -5,6 +5,12 @@ local VirtualInputManager = game:GetService("VirtualInputManager")
 local player = Players.LocalPlayer
 local playerGui = player:FindFirstChild("PlayerGui") or Instance.new("PlayerGui", player)
 
+-- Usunięcie starego GUI, jeśli istnieje
+local oldScreenGui = playerGui:FindFirstChild("ScreenGui")
+if oldScreenGui then
+    oldScreenGui:Destroy()
+end
+
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = playerGui
 
