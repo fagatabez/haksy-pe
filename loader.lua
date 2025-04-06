@@ -10,7 +10,8 @@ local files = {
     "zmienrozb.lua",
     "Ai.lua",
     "zmienrozl.lua",
-    "kloc.lua"
+    "kloc.lua",
+    "op.lua"
 }
 
 local baseUrl = "https://raw.githubusercontent.com/fagatabez/haksy-pe/main/"
